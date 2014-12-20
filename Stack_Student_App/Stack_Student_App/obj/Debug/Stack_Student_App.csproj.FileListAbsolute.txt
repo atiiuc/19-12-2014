@@ -1,0 +1,6 @@
+D:\atiiucProjects\18.12.2014\Stack_Student_App\Stack_Student_App\bin\Debug\Stack_Student_App.exe.config
+D:\atiiucProjects\18.12.2014\Stack_Student_App\Stack_Student_App\bin\Debug\Stack_Student_App.exe
+D:\atiiucProjects\18.12.2014\Stack_Student_App\Stack_Student_App\bin\Debug\Stack_Student_App.pdb
+D:\atiiucProjects\18.12.2014\Stack_Student_App\Stack_Student_App\obj\Debug\Stack_Student_App.csprojResolveAssemblyReference.cache
+D:\atiiucProjects\18.12.2014\Stack_Student_App\Stack_Student_App\obj\Debug\Stack_Student_App.exe
+D:\atiiucProjects\18.12.2014\Stack_Student_App\Stack_Student_App\obj\Debug\Stack_Student_App.pdb

@@ -1,0 +1,9 @@
+D:\atiiucProjects\18.12.2014\OOP_StudentLimit3App\OOP_StudentLimit3App\bin\Debug\OOP_StudentLimit3App.exe.config
+D:\atiiucProjects\18.12.2014\OOP_StudentLimit3App\OOP_StudentLimit3App\bin\Debug\OOP_StudentLimit3App.exe
+D:\atiiucProjects\18.12.2014\OOP_StudentLimit3App\OOP_StudentLimit3App\bin\Debug\OOP_StudentLimit3App.pdb
+D:\atiiucProjects\18.12.2014\OOP_StudentLimit3App\OOP_StudentLimit3App\obj\Debug\OOP_StudentLimit3App.csprojResolveAssemblyReference.cache
+D:\atiiucProjects\18.12.2014\OOP_StudentLimit3App\OOP_StudentLimit3App\obj\Debug\OOP_StudentLimit3App.Form1.resources
+D:\atiiucProjects\18.12.2014\OOP_StudentLimit3App\OOP_StudentLimit3App\obj\Debug\OOP_StudentLimit3App.Properties.Resources.resources
+D:\atiiucProjects\18.12.2014\OOP_StudentLimit3App\OOP_StudentLimit3App\obj\Debug\OOP_StudentLimit3App.csproj.GenerateResource.Cache
+D:\atiiucProjects\18.12.2014\OOP_StudentLimit3App\OOP_StudentLimit3App\obj\Debug\OOP_StudentLimit3App.exe
+D:\atiiucProjects\18.12.2014\OOP_StudentLimit3App\OOP_StudentLimit3App\obj\Debug\OOP_StudentLimit3App.pdb

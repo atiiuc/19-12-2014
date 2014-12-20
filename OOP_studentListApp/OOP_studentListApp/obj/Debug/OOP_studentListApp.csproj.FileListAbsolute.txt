@@ -1,0 +1,6 @@
+D:\atiiucProjects\18.12.2014\OOP_studentListApp\OOP_studentListApp\bin\Debug\OOP_studentListApp.exe.config
+D:\atiiucProjects\18.12.2014\OOP_studentListApp\OOP_studentListApp\bin\Debug\OOP_studentListApp.exe
+D:\atiiucProjects\18.12.2014\OOP_studentListApp\OOP_studentListApp\bin\Debug\OOP_studentListApp.pdb
+D:\atiiucProjects\18.12.2014\OOP_studentListApp\OOP_studentListApp\obj\Debug\OOP_studentListApp.csprojResolveAssemblyReference.cache
+D:\atiiucProjects\18.12.2014\OOP_studentListApp\OOP_studentListApp\obj\Debug\OOP_studentListApp.exe
+D:\atiiucProjects\18.12.2014\OOP_studentListApp\OOP_studentListApp\obj\Debug\OOP_studentListApp.pdb

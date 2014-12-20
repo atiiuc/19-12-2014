@@ -1,0 +1,6 @@
+D:\atiiucProjects\18.12.2014\OOP_ObjectArrayApp\OOP_ObjectArrayApp\bin\Debug\OOP_ObjectArrayApp.exe.config
+D:\atiiucProjects\18.12.2014\OOP_ObjectArrayApp\OOP_ObjectArrayApp\bin\Debug\OOP_ObjectArrayApp.exe
+D:\atiiucProjects\18.12.2014\OOP_ObjectArrayApp\OOP_ObjectArrayApp\bin\Debug\OOP_ObjectArrayApp.pdb
+D:\atiiucProjects\18.12.2014\OOP_ObjectArrayApp\OOP_ObjectArrayApp\obj\Debug\OOP_ObjectArrayApp.csprojResolveAssemblyReference.cache
+D:\atiiucProjects\18.12.2014\OOP_ObjectArrayApp\OOP_ObjectArrayApp\obj\Debug\OOP_ObjectArrayApp.exe
+D:\atiiucProjects\18.12.2014\OOP_ObjectArrayApp\OOP_ObjectArrayApp\obj\Debug\OOP_ObjectArrayApp.pdb

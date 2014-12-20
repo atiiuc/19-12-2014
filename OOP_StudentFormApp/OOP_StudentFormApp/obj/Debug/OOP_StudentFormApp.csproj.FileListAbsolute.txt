@@ -1,0 +1,9 @@
+D:\atiiucProjects\18.12.2014\OOP_StudentFormApp\OOP_StudentFormApp\bin\Debug\OOP_StudentFormApp.exe.config
+D:\atiiucProjects\18.12.2014\OOP_StudentFormApp\OOP_StudentFormApp\bin\Debug\OOP_StudentFormApp.exe
+D:\atiiucProjects\18.12.2014\OOP_StudentFormApp\OOP_StudentFormApp\bin\Debug\OOP_StudentFormApp.pdb
+D:\atiiucProjects\18.12.2014\OOP_StudentFormApp\OOP_StudentFormApp\obj\Debug\OOP_StudentFormApp.csprojResolveAssemblyReference.cache
+D:\atiiucProjects\18.12.2014\OOP_StudentFormApp\OOP_StudentFormApp\obj\Debug\OOP_StudentFormApp.Form1.resources
+D:\atiiucProjects\18.12.2014\OOP_StudentFormApp\OOP_StudentFormApp\obj\Debug\OOP_StudentFormApp.Properties.Resources.resources
+D:\atiiucProjects\18.12.2014\OOP_StudentFormApp\OOP_StudentFormApp\obj\Debug\OOP_StudentFormApp.csproj.GenerateResource.Cache
+D:\atiiucProjects\18.12.2014\OOP_StudentFormApp\OOP_StudentFormApp\obj\Debug\OOP_StudentFormApp.exe
+D:\atiiucProjects\18.12.2014\OOP_StudentFormApp\OOP_StudentFormApp\obj\Debug\OOP_StudentFormApp.pdb
